@@ -1,6 +1,6 @@
 # Rooftop Visibility Analysis: Burlington Waterfront
 
-Coursework from the Esri MOOC [course name], Section 3, Exercise 2.
+Coursework from the Esri MOOC The Power of Where: Communicating with Maps, Section 3, Exercise 2.
 
 ## Scenario
 A company is hosting a rooftop reception in downtown Burlington, Ontario,
@@ -8,7 +8,7 @@ and wants guests to have a good view of the Brant Street Pier beacon.
 The task was to find which rooftops have the best view of it.
 
 ## Approach
-- Built a 3D scene of [buildings / terrain / pier data]
+- Built a 3D scene of   buildings / terrain / pier data
 - Used [line of sight / viewshed / other tool] to test visibility from [candidate rooftops]
 - [Anything you adjusted, such as observer height or target height]
 
